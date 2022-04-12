@@ -1,1 +1,1 @@
-# novorepo
+# .
